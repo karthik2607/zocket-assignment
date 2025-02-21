@@ -63,6 +63,4 @@ To test the functionalities, use the following credentials:
 - Ensure you have Python installed to run the chatbot.
 - The frontend is already live on Vercel, but the backend must be run locally.
 
-## License
-This project is licensed under [MIT License](LICENSE).
 
