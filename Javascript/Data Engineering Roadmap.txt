@@ -1,0 +1,40 @@
+Data Engineering Roadmap
+1) SQL Completely
+2) Python/ Java / Scala
+3) Linux
+4) Data Modelling and ETL concepts (theoretical)
+5) Hadoop (HDFS, HIVE, SPOOP)
+6) Spark (Spark Batch, Spark SQL, Spark Streaming)
+7) Cloud Data Services (AWS,GCP,Azure)
+
+
+Walmart USA Advanced Software Engineering Virtual Experience Program on Forage -
+February 2025
+
+ * Completed the Advanced Software Engineering Job Simulation where I solved
+   difficult technical projects for a variety of teams at Walmart.
+ * Developed a novel version of a heap data structure in Java for Walmart’s
+   shipping department, showcasing strong problem-solving and algorithmic
+   skills.
+ * Designed a UML class diagram for a data processor, considering different
+   operating modes and database connections.
+ * Created an entity relationship diagram to design a new database accounting
+   for all requirements provided by Walmart’s pet department.
+
+
+
+“Why are you interested in this role?”
+
+I recently participated in Walmart’s job simulation on Forage and it was
+incredibly useful to understand what it might be like to participate in a
+software engineering team there.
+During the simulation I gained experience and expertise implementing a novel
+version of a heap data structure, designing a UML class diagram for a data
+processor and creating a database that met a diverse range of requirements. It
+was fantastic to experience how working as a software engineer at Walmart
+touches and supports various different teams like the shipping department and
+the pet department.
+Through this experience I validated that I really enjoy working on complex
+data-related challenges and working on projects that have real-world impact at a
+massive scale. I’d love to apply what I learned in a software engineering team
+at Walmart.
